@@ -10,7 +10,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "jquery": "^2.1.1",
+    "jquery": "~2.1.1",
     "mocha": "^2.0.1",
     "mocha-traceur": "^2.0.0",
     "planet-maps": "^0.1.0",
